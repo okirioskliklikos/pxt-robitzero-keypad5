@@ -15,7 +15,7 @@
         "custom.ts",
         "library.ts",
         "_locales/en/pxt-robitzero-keypad5-strings.json",
-        "_locales/el/pxt-robitzero-keypad5-strings.json"        
+        "_locales/el/pxt-robitzero-keypad5-strings.json"
     ],
     "testFiles": [
         "test.ts"

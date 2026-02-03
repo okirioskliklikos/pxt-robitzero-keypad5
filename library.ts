@@ -81,11 +81,11 @@ namespace rb0keypad5 {
     * Initialize Keypad 5
     * @param port Keyestudio port where the keypad is connected
     */
-    //% blockId="rb0keypad5_simpleinit"
+    //% blockId="rb0keypad5_simpleInit"
     //% block="keypad at port %port" 
     //% weight=90 color=100 blockGap=24
     //% port.defl=KeyestudioPort.P0
-    export function simpleinit(port: KeyestudioPort) {
+    export function simpleInit(port: KeyestudioPort) {
         let pin1 = rb0base.getPinFromKeyestudioPort(port);
         rb0base.enablePin(pin1);
         inputPin = pin1;
@@ -95,11 +95,11 @@ namespace rb0keypad5 {
     * Initialize Keypad 5
     * @param pin1 pin where the keypad is connected
     */
-    //% blockId="rb0keypa5d_advancedinit"
+    //% blockId="rb0keypa5d_advancedInit"
     //% block="keypad at pin %pin2" 
     //% weight=90 color=100 blockGap=24 advanced=true
     //% pin1.defl=DigitalPin.P0
-    export function advancedinit(pin1: DigitalPin) {
+    export function advancedInit(pin1: DigitalPin) {
         rb0base.enablePin(pin1);
         inputPin = pin1;
     }
