@@ -1,13 +1,13 @@
 {
-  "Keypad5Button.Black|block": "black",
-  "Keypad5Button.Blue|block": "blue",
-  "Keypad5Button.Green|block": "green",
-  "Keypad5Button.Red|block": "red",
-  "Keypad5Button.Yellow|block": "yellow",
-  "rb0keypad5.advancedinit|block": "keypad at pin %pin2",
-  "rb0keypad5.onButtonPressed|block": "on keypad button %button pressed",
-  "rb0keypad5.simpleinit|block": "keypad at port %port",
-  "rb0keypad5|block": "Keypad 5",
+  "Keypad5Button.Black|block": "μαύρο",
+  "Keypad5Button.Blue|block": "μπλε",
+  "Keypad5Button.Green|block": "πράσινο",
+  "Keypad5Button.Red|block": "κόκκινο",
+  "Keypad5Button.Yellow|block": "κίτρινο",
+  "rb0keypad5.advancedinit|block": "πλήκτρα στον ακροδέκτη %pin2",
+  "rb0keypad5.onButtonPressed|block": "όταν πιεστεί το %button πλήκτρο",
+  "rb0keypad5.simpleinit|block": "πλήκτρα στην θύρα %port",
+  "rb0keypad5|block": "Πλήκτρα 5",
   "{id:category}Rb0keypad5": "Rb0keypad5",
-  "{id:group}Input": "Input"
+  "{id:group}Input": "Είσοδος"
 }
