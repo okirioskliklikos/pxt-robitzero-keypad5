@@ -4,9 +4,9 @@
   "Keypad5Button.Green|block": "πράσινο",
   "Keypad5Button.Red|block": "κόκκινο",
   "Keypad5Button.Yellow|block": "κίτρινο",
-  "rb0keypad5.advancedInit|block": "κουμπιά στον ακροδέκτη %pin2",
+  "rb0keypad5.initAdvanced|block": "κουμπιά στον ακροδέκτη %pin2",
+  "rb0keypad5.initSimple|block": "κουμπιά στην θύρα %port",
   "rb0keypad5.onButtonPressed|block": "όταν πιεστεί το %button κουμπί",
-  "rb0keypad5.simpleInit|block": "κουμπιά στην θύρα %port",
   "rb0keypad5|block": "Κουμπιά 5",
   "{id:category}Rb0keypad5": "Rb0keypad5",
   "{id:group}Input": "Είσοδος"
